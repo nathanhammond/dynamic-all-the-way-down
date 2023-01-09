@@ -1,0 +1,14 @@
+{
+  "name": "run-third",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo run-third"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "run-second": "*"
+  }
+}

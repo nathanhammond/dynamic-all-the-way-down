@@ -1,0 +1,11 @@
+{
+  "name": "run-first",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo run-first"
+  },
+  "author": "",
+  "license": "ISC"
+}
